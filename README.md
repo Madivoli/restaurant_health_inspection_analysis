@@ -98,13 +98,13 @@ The comparison highlights a significant trend: 𝟳 𝗼𝘂𝘁 𝗼𝗳 𝘁�
 - 𝗧𝗮𝗿𝗴𝗲𝘁 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝘁 𝘁𝗵𝗲 𝗦𝗼𝘂𝗿𝗰𝗲: The number 1 violation (Non-food contact surfaces) is non-critical but 𝗰𝗼𝗻𝘀𝘂𝗺𝗲𝘀 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝗮𝗺𝗼𝘂𝗻𝘁 𝗼𝗳 𝗲𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁 𝘁𝗶𝗺𝗲. Providing tax incentives for restaurants to install 𝗵𝗶𝗴𝗵-𝗱𝘂𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗲𝗮𝘀𝘆-𝘁𝗼-𝗰𝗹𝗲𝗮𝗻 𝗺𝗮𝘁𝗲𝗿𝗶𝗮𝗹𝘀 𝘄𝗼𝘂𝗹𝗱 𝗿𝗲𝗱𝘂𝗰𝗲 𝘁𝗵𝗶𝘀 𝘃𝗼𝗹𝘂𝗺𝗲 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁𝗹𝘆.
 
 
-
-🟩
-
-
 ---
 3️⃣ 𝗕𝗼𝗿𝗼𝘂𝗴𝗵𝘀 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗛𝗶𝗴𝗵𝗲𝘀𝘁 𝗥𝗮𝘁𝗲 𝗼𝗳 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗩𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀
 
+In this specific subset of critical violation data, the distribution is highly concentrated in three boroughs:
+- 𝗠𝗮𝗻𝗵𝗮𝘁𝘁𝗮𝗻: Leads the city with 𝟯𝟴,𝟯𝟰𝟰 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀, accounting for nearly 𝟰𝟭.𝟴𝟱% 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗱𝗮𝘁𝗮𝘀𝗲𝘁.
+- Brooklyn: Follows with 26,999 citations, representing 29.47% of the distribution.
+- Queens: Accounts for 26,281 citations, or 28.68% of the distribution.
 
 🟩
 
