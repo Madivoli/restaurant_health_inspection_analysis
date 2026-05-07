@@ -5,23 +5,50 @@
 
 <br>
 
-You are a Data Analyst for the NYC Department of Health. Your job is to analyze restaurant inspection results to identify patterns in violations, grades, and cuisine types across New York City. The dataset includes restaurant details, cuisine descriptions, inspection results, grades, and violation types. The city leadership wants to use data to improve public health policies, inspection scheduling, and food safety education. The Commissioner wants to understand which types of restaurants are struggling with food safety, which neighborhoods are at highest risk, and what violations are most common. Use this dataset to build a report with insights.
+This analysis provides 𝗮 𝗰𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝘃𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗼𝗳 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗵𝗲𝗮𝗹𝘁𝗵 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 across New York City to 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗶𝗻 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲. By evaluating the relationships between violation types, restaurant grades, and cuisine categories across the five boroughs, 𝘁𝗵𝗲 𝗡𝗬𝗖 𝗗𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵 𝗰𝗮𝗻 𝗯𝗲𝘁𝘁𝗲𝗿 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝗶𝘇𝗲 𝗶𝘁𝘀 𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗼𝗿𝘆 𝗲𝗳𝗳𝗼𝗿𝘁𝘀. The primary objective is to use these data-driven insights 𝘁𝗼 𝗿𝗲𝗳𝗶𝗻𝗲 𝗽𝘂𝗯𝗹𝗶𝗰 𝗵𝗲𝗮𝗹𝘁𝗵 𝗽𝗼𝗹𝗶𝗰𝗶𝗲𝘀, 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗲 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝘀𝗰𝗵𝗲𝗱𝘂𝗹𝗶𝗻𝗴, and 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝘁𝗮𝗿𝗴𝗲𝘁𝗲𝗱 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 where it is most needed to protect the dining public.
 
 <br>
 
 𝗢𝗩𝗘𝗥𝗔𝗟𝗟 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦
 <br>
-<img width="990" height="559" alt="image" src="https://github.com/user-attachments/assets/a5fb358a-cc47-44ba-8959-af15f5a2a55d" />
+<img width="992" height="557" alt="image" src="https://github.com/user-attachments/assets/d9c8285f-5c66-4eaf-bf40-400f1c17330e" />
+
 <br>
 
 𝗧𝗼𝘁𝗮𝗹 𝗡𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝗜𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻𝘀 𝗯𝘆 𝗕𝗼𝗿𝗼𝘂𝗴𝗵
-Based on the analysis, the inspection distribution reveals significant disparities in workload and regulatory oversight across NYC. The data shows a highly centralized concentration of regulatory activity:
+
+Based on the analysis, the inspection distribution reveals significant 𝗱𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝗶𝗲𝘀 𝗶𝗻 𝘄𝗼𝗿𝗸𝗹𝗼𝗮𝗱 𝗮𝗻𝗱 𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗼𝗿𝘆 𝗼𝘃𝗲𝗿𝘀𝗶𝗴𝗵𝘁 𝗮𝗰𝗿𝗼𝘀𝘀 𝗡𝗬𝗖. The data shows a highly centralized concentration of regulatory activity:
 - 𝗠𝗮𝗻𝗵𝗮𝘁𝘁𝗮𝗻 𝗗𝗼𝗺𝗶𝗻𝗮𝗻𝗰𝗲: With 𝟭𝟬𝟯,𝟰𝟵𝟮 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻𝘀, Manhattan accounts for nearly 𝟯𝟳% 𝗼𝗳 𝗮𝗹𝗹 𝗰𝗶𝘁𝘆𝘄𝗶𝗱𝗲 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻𝘀.
 - 𝗧𝗵𝗲 𝗕𝗶𝗴 𝗧𝗵𝗿𝗲𝗲: Manhattan, Brooklyn, and Queens together represent approximately 𝟴𝟳% 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁'𝘀 𝘁𝗼𝘁𝗮𝗹 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝘃𝗼𝗹𝘂𝗺𝗲.
 - 𝗢𝘂𝘁𝗲𝗿 𝗕𝗼𝗿𝗼𝘂𝗴𝗵 𝗗𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝘆: The Bronx (𝟵.𝟮%) and Staten Island (𝟯.𝟱%) show significantly lower inspection volumes, which may reflect 𝗹𝗼𝘄𝗲𝗿 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗱𝗲𝗻𝘀𝗶𝘁𝘆 or 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀 𝗶𝗻 𝗲𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗮𝗹𝗹𝗼𝗰𝗮𝘁𝗶𝗼𝗻.
 
+<br>
 
+𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗖𝗶𝘁𝘆 𝗼𝗳 𝗡𝗬𝗖
+- 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗦𝘁𝗿𝗮𝗶𝗻 𝗶𝗻 𝗠𝗮𝗻𝗵𝗮𝘁𝘁𝗮𝗻: The sheer volume in Manhattan suggests 𝗮 𝗵𝗶𝗴𝗵 𝗱𝗲𝗺𝗮𝗻𝗱 𝗳𝗼𝗿 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗶𝗻 𝗮 𝗰𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗲𝗱 𝗮𝗿𝗲𝗮, likely leading to 𝗵𝗶𝗴𝗵𝗲𝗿 𝘁𝗿𝗮𝘃𝗲𝗹 𝗰𝗼𝘀𝘁𝘀 𝗮𝗻𝗱 𝗹𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀.
+- 𝗣𝗼𝗹𝗶𝗰𝘆 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: A one-size-fits-all policy may not work if the operational environments in Manhattan (high turnover, tourist-heavy) differ drastically from Staten Island or the Bronx.
 
+<br>
+
+𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗡𝗬𝗖 𝗖𝗼𝗺𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝗲𝗿 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵
+
+𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗜𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝗦𝗰𝗵𝗲𝗱𝘂𝗹𝗶𝗻𝗴:
+- 𝗥𝗶𝘀𝗸-𝗕𝗮𝘀𝗲𝗱 𝗔𝗹𝗹𝗼𝗰𝗮𝘁𝗶𝗼𝗻: Move away from purely geographic quotas. Use the higher volume in Manhattan to identify high-risk clusters and transition to a risk-based model where high-performing restaurants are inspected less frequently, freeing up staff for at-risk areas in outer boroughs.
+- 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝘃𝗲 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀: Use historical data to predict peak violation periods (e.g., seasonal tourist surges in Manhattan) to pre-allocate staff and reduce response times for re-inspections.
+
+---
+𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗼𝗳 𝗚𝗿𝗮𝗱𝗲𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝗡𝗬𝗖
+
+𝗧𝗵𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗿𝗲𝘃𝗲𝗮𝗹𝘀 𝗮 𝗵𝗶𝗴𝗵 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱 𝗼𝗳 𝘀𝗲𝗹𝗳-𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗮𝗰𝗿𝗼𝘀𝘀 𝘁𝗵𝗲 𝗰𝗶𝘁𝘆:
+- 𝗚𝗿𝗮𝗱𝗲 𝗔: Over two-thirds of NYC restaurants (𝟵𝟱,𝟯𝟰𝟳, 𝟲𝟴%) currently 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻 𝗮𝗻 "𝗔" 𝗴𝗿𝗮𝗱𝗲. This indicates that 𝗺𝗼𝘀𝘁 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗼𝘄𝗻𝗲𝗿𝘀 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗳𝗼𝗹𝗹𝗼𝘄 𝗵𝗲𝗮𝗹𝘁𝗵 𝗮𝗻𝗱 𝘀𝗮𝗻𝗶𝘁𝗮𝗿𝘆 𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀.
+- 𝗚𝗿𝗮𝗱𝗲𝘀 𝗕 & 𝗖: Roughly 1 in 5 restaurants fall into the "𝗕" (𝟭𝟮.𝟲%) or "𝗖" (𝟴.𝟲%) categories, representing 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀 𝘄𝗶𝘁𝗵 𝗺𝗼𝗱𝗲𝗿𝗮𝘁𝗲 𝘁𝗼 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁 𝗵𝗲𝗮𝗹𝘁𝗵 𝗮𝗻𝗱 𝘀𝗮𝗻𝗶𝘁𝗮𝗿𝘆 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀.
+- 𝗣𝗲𝗻𝗱𝗶𝗻𝗴/𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗦𝘁𝗮𝘁𝘂𝘀: Grades such as N (Not Yet Graded), Z (Pending on Appeal), and P (Grade Pending) account for 𝗮 𝗰𝘂𝗺𝘂𝗹𝗮𝘁𝗶𝘃𝗲 𝟭𝟬.𝟴%, indicating a significant volume of 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗻𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗮𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝘃𝗲 𝗼𝗿 𝗹𝗲𝗴𝗮𝗹 𝗿𝗲𝘃𝗶𝗲𝘄 𝗽𝗿𝗼𝗰𝗲𝘀𝘀.
+
+<br>
+
+𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗡𝗬𝗖 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽
+- 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝘃𝗲 𝗢𝘃𝗲𝗿𝗵𝗲𝗮𝗱: The high volume of Z and P grades suggests 𝗮 𝗯𝗮𝗰𝗸𝗹𝗼𝗴 𝗶𝗻 𝘁𝗵𝗲 𝗮𝗽𝗽𝗲𝗮𝗹𝘀 𝗮𝗻𝗱 𝘀𝗲𝗰𝗼𝗻𝗱𝗮𝗿𝘆 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀, which can 𝗱𝗲𝗹𝗮𝘆 𝗽𝘂𝗯𝗹𝗶𝗰 𝗮𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀 𝗼𝗳 𝗮𝗰𝘁𝘂𝗮𝗹 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁𝘀’ 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗰𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝘀.
+- 𝗛𝗲𝗮𝗹𝘁𝗵 𝗥𝗶𝘀𝗸 𝗖𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻: The 𝟮𝟬.𝟳% of restaurants with B or C grades represent 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝗿𝗶𝘀𝗸 𝗮𝗿𝗲𝗮𝘀 𝗳𝗼𝗿 𝗳𝗼𝗼𝗱𝗯𝗼𝗿𝗻𝗲 𝗶𝗹𝗹𝗻𝗲𝘀𝘀 and require the most 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝘁 𝗺𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻.
 
 ---
 ---
