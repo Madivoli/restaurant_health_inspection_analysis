@@ -61,7 +61,7 @@ Based on the analysis, the inspection distribution reveals significant 𝗱𝗶�
 ---
 𝗩𝗜𝗢𝗟𝗔𝗧𝗜𝗢𝗡 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
 <br>
-<img width="989" height="556" alt="image" src="https://github.com/user-attachments/assets/bb85a289-bcd9-411b-a6e2-afb9444a25f9" />
+<img width="988" height="551" alt="image" src="https://github.com/user-attachments/assets/fb238db5-426d-4c62-9ffd-6b9bba5bd4c6" />
 
 <br>
 
@@ -115,7 +115,8 @@ In this specific subset of critical violation data, the distribution is highly c
 ---
 𝗖𝗨𝗜𝗦𝗜𝗡𝗘 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
 <br>
-<img width="999" height="564" alt="image" src="https://github.com/user-attachments/assets/f955b267-bda3-4840-a777-0bf0b542b3de" />
+<img width="985" height="552" alt="image" src="https://github.com/user-attachments/assets/dc4ec22d-1b7e-4d69-95bd-ced785c2f75c" />
+
 <br>
 
 
