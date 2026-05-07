@@ -10,14 +10,17 @@ This analysis provides 𝗮 𝗰𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝘃𝗲
 <br>
 
 𝗢𝗩𝗘𝗥𝗔𝗟𝗟 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦
-<br>
+
+Based on the analysis, the inspection distribution reveals significant 𝗱𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝗶𝗲𝘀 𝗶𝗻 𝘄𝗼𝗿𝗸𝗹𝗼𝗮𝗱 𝗮𝗻𝗱 𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗼𝗿𝘆 𝗼𝘃𝗲𝗿𝘀𝗶𝗴𝗵𝘁 𝗮𝗰𝗿𝗼𝘀𝘀 𝗡𝗬𝗖. 
+
+
 <img width="992" height="557" alt="image" src="https://github.com/user-attachments/assets/d9c8285f-5c66-4eaf-bf40-400f1c17330e" />
 
 <br>
 
 1️⃣ 𝗧𝗼𝘁𝗮𝗹 𝗡𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝗜𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻𝘀 𝗯𝘆 𝗕𝗼𝗿𝗼𝘂𝗴𝗵
 
-Based on the analysis, the inspection distribution reveals significant 𝗱𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝗶𝗲𝘀 𝗶𝗻 𝘄𝗼𝗿𝗸𝗹𝗼𝗮𝗱 𝗮𝗻𝗱 𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗼𝗿𝘆 𝗼𝘃𝗲𝗿𝘀𝗶𝗴𝗵𝘁 𝗮𝗰𝗿𝗼𝘀𝘀 𝗡𝗬𝗖. The data shows a highly centralized concentration of regulatory activity:
+The data shows a highly centralized concentration of regulatory activity:
 - 𝗠𝗮𝗻𝗵𝗮𝘁𝘁𝗮𝗻 𝗗𝗼𝗺𝗶𝗻𝗮𝗻𝗰𝗲: With 𝟭𝟬𝟯,𝟰𝟵𝟮 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻𝘀, Manhattan accounts for nearly 𝟯𝟳% 𝗼𝗳 𝗮𝗹𝗹 𝗰𝗶𝘁𝘆𝘄𝗶𝗱𝗲 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻𝘀.
 - 𝗧𝗵𝗲 𝗕𝗶𝗴 𝗧𝗵𝗿𝗲𝗲: Manhattan, Brooklyn, and Queens together represent approximately 𝟴𝟳% 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁'𝘀 𝘁𝗼𝘁𝗮𝗹 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝘃𝗼𝗹𝘂𝗺𝗲.
 - 𝗢𝘂𝘁𝗲𝗿 𝗕𝗼𝗿𝗼𝘂𝗴𝗵 𝗗𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝘆: The Bronx (𝟵.𝟮%) and Staten Island (𝟯.𝟱%) show significantly lower inspection volumes, which may reflect 𝗹𝗼𝘄𝗲𝗿 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗱𝗲𝗻𝘀𝗶𝘁𝘆 or 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀 𝗶𝗻 𝗲𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗮𝗹𝗹𝗼𝗰𝗮𝘁𝗶𝗼𝗻.
@@ -60,7 +63,10 @@ Based on the analysis, the inspection distribution reveals significant 𝗱𝗶�
 ---
 ---
 𝗩𝗜𝗢𝗟𝗔𝗧𝗜𝗢𝗡 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
-<br>
+
+Based on the data, the analysis 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗲𝘀 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗻𝗱 𝘀𝗮𝗻𝗶𝘁𝗮𝗿𝘆 𝗶𝘀𝘀𝘂𝗲𝘀 across NYC's food establishments. This data provides a clear roadmap for the Commissioner of the Department of Health to prioritize public health interventions.
+
+
 <img width="988" height="551" alt="image" src="https://github.com/user-attachments/assets/fb238db5-426d-4c62-9ffd-6b9bba5bd4c6" />
 
 <br>
@@ -102,19 +108,29 @@ The comparison highlights a significant trend: 𝟳 𝗼𝘂𝘁 𝗼𝗳 𝘁�
 3️⃣ 𝗕𝗼𝗿𝗼𝘂𝗴𝗵𝘀 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗛𝗶𝗴𝗵𝗲𝘀𝘁 𝗥𝗮𝘁𝗲 𝗼𝗳 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗩𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀
 
 In this specific subset of critical violation data, the distribution is highly concentrated in three boroughs:
-- 𝗠𝗮𝗻𝗵𝗮𝘁𝘁𝗮𝗻: Leads the city with 𝟯𝟴,𝟯𝟰𝟰 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀, accounting for nearly 𝟰𝟭.𝟴𝟱% 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗱𝗮𝘁𝗮𝘀𝗲𝘁.
-- Brooklyn: Follows with 26,999 citations, representing 29.47% of the distribution.
-- Queens: Accounts for 26,281 citations, or 28.68% of the distribution.
+- 𝗠𝗮𝗻𝗵𝗮𝘁𝘁𝗮𝗻: Leads the city with 𝟯𝟴,𝟯𝟰𝟰 critical violations, accounting for nearly 𝟰𝟭.𝟴𝟱% of the total critical citations in this dataset.
+- 𝗕𝗿𝗼𝗼𝗸𝗹𝘆𝗻: Follows with 𝟮𝟲,𝟵𝟵𝟵 citations, representing 𝟮𝟵.𝟰𝟳% of the distribution.
+- 𝗤𝘂𝗲𝗲𝗻𝘀: Accounts for 𝟮𝟲,𝟮𝟴𝟭 citations, or 𝟮𝟴.𝟲𝟴% of the distribution.
 
-🟩
+<br>
 
-🟩
+🟩 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝗲𝗿 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵
+- 𝗖𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗲𝗱 𝗘𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁: The high concentration in Manhattan suggests that 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗱𝗲𝗻𝘀𝗶𝘁𝘆 and 𝗵𝗶𝗴𝗵 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝘁𝘂𝗿𝗻𝗼𝘃𝗲𝗿 𝗺𝗮𝘆 𝗯𝗲 𝘀𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝘁𝗵𝗲 𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗼𝗳 𝘀𝘁𝗮𝗳𝗳 𝘁𝗼 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝘀𝗮𝗳𝗲𝘁𝘆 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝘀.
+- 𝗦𝗮𝗻𝗶𝘁𝗮𝘁𝗶𝗼𝗻 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: The prevalence of "food contact surface" violations in all three leading boroughs indicates 𝗮 𝘀𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗻𝗲𝗲𝗱 𝗳𝗼𝗿 𝗯𝗲𝘁𝘁𝗲𝗿 𝘀𝘁𝗮𝘁𝗶𝗼𝗻-𝗯𝘆-𝘀𝘁𝗮𝘁𝗶𝗼𝗻 𝘀𝗮𝗻𝗶𝘁𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀.
 
+<br>
+
+🟩 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
+- 𝗕𝗼𝗿𝗼𝘂𝗴𝗵-𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗥𝗮𝗽𝗶𝗱 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲: Deploy specialized 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝗮𝗺𝘀 to Manhattan and Brooklyn 𝘁𝗼 𝗰𝗼𝗻𝗱𝘂𝗰𝘁 𝘀𝗵𝗼𝗿𝘁, 𝗳𝗼𝗰𝘂𝘀𝗲𝗱 𝘀𝗮𝗻𝗶𝘁𝗮𝘁𝗶𝗼𝗻 𝗮𝘂𝗱𝗶𝘁𝘀 𝘁𝗵𝗮𝘁 𝗱𝗼𝗻'𝘁 𝗰𝗼𝘂𝗻𝘁 𝗮𝘀 𝗳𝘂𝗹𝗹 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻𝘀 𝗯𝘂𝘁 𝗵𝗲𝗹𝗽 𝗼𝘄𝗻𝗲𝗿𝘀 𝗳𝗶𝘅 𝘁𝗵𝗲𝘀𝗲 𝗵𝗶𝗴𝗵-𝗿𝗶𝘀𝗸 𝗶𝘀𝘀𝘂𝗲𝘀.
+- 𝗧𝗲𝗺𝗽𝗲𝗿𝗮𝘁𝘂𝗿𝗲 𝗦𝗮𝗳𝗲𝘁𝘆 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆: Given that cold and hot food holding violations are top drivers in Manhattan, the city should 𝗶𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗶𝘇𝗲 𝘁𝗵𝗲 𝗮𝗱𝗼𝗽𝘁𝗶𝗼𝗻 𝗼𝗳 𝗜𝗼𝗧-𝗲𝗻𝗮𝗯𝗹𝗲𝗱 𝘁𝗲𝗺𝗽𝗲𝗿𝗮𝘁𝘂𝗿𝗲 𝘀𝗲𝗻𝘀𝗼𝗿𝘀 𝗳𝗼𝗿 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁𝘀 𝗶𝗻 𝗵𝗶𝗴𝗵-𝘃𝗼𝗹𝘂𝗺𝗲 𝗮𝗿𝗲𝗮𝘀.
 
 ---
 ---
 𝗖𝗨𝗜𝗦𝗜𝗡𝗘 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
-<br>
+
+Based on the NYC inspection system's logic, in which higher numbers indicate more violations, 𝘁𝗵𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗲𝘀 𝘁𝗵𝗲 𝗰𝘂𝗶𝘀𝗶𝗻𝗲𝘀 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝘁 𝗮𝗻𝗱 𝘀𝗲𝘃𝗲𝗿𝗲 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗶𝘀𝘀𝘂𝗲𝘀.
+
+
 <img width="985" height="552" alt="image" src="https://github.com/user-attachments/assets/dc4ec22d-1b7e-4d69-95bd-ced785c2f75c" />
 
 <br>
