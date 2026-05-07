@@ -61,27 +61,43 @@ Based on the analysis, the inspection distribution reveals significant 𝗱𝗶�
 ---
 𝗩𝗜𝗢𝗟𝗔𝗧𝗜𝗢𝗡 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
 <br>
-<img width="994" height="555" alt="image" src="https://github.com/user-attachments/assets/8b3b58ad-1764-42e8-b881-cd9c8d40c954" />
+<img width="989" height="556" alt="image" src="https://github.com/user-attachments/assets/bb85a289-bcd9-411b-a6e2-afb9444a25f9" />
 
 <br>
 
 1️⃣ 𝗧𝗼𝗽 𝟭𝟬 𝗠𝗼𝘀𝘁 𝗙𝗿𝗲𝗾𝘂𝗲𝗻𝘁 𝗩𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀
 
-Based on the data from 𝗧𝗼𝗽 𝟭𝟬 𝗠𝗼𝘀𝘁 𝗙𝗿𝗲𝗾𝘂𝗲𝗻𝘁 𝗩𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀, the analysis 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗲𝘀 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗻𝗱 𝘀𝗮𝗻𝗶𝘁𝗮𝗿𝘆 𝗶𝘀𝘀𝘂𝗲𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝗡𝗬𝗖'𝘀 𝗳𝗼𝗼𝗱 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀. This data provides a clear roadmap for the Commissioner of the Department of Health to prioritize public health interventions.
-
-🟩 The violations can be grouped into three high-impact categories:
+The violations can be grouped into three high-impact categories:
 - 𝗦𝗮𝗻𝗶𝘁𝗮𝗿𝘆 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: The most frequent violation (𝟯𝟱,𝟳𝟱𝟴 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀) 𝗶𝗻𝘃𝗼𝗹𝘃𝗲𝘀 "𝗡𝗼𝗻-𝗳𝗼𝗼𝗱 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘀𝘂𝗿𝗳𝗮𝗰𝗲𝘀" being made of unacceptable materials or kept in poor condition. This suggests 𝗮 𝘄𝗶𝗱𝗲𝘀𝗽𝗿𝗲𝗮𝗱 𝗶𝘀𝘀𝘂𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗽𝗵𝘆𝘀𝗶𝗰𝗮𝗹 𝘂𝗽𝗸𝗲𝗲𝗽 𝗼𝗳 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗳𝗮𝗰𝗶𝗹𝗶𝘁𝗶𝗲𝘀.
 - 𝗣𝗲𝘀𝘁 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 & 𝗛𝗮𝗿𝗯𝗼𝗿𝗮𝗴𝗲: Two of the top six violations relate to pests, specifically "𝗵𝗮𝗿𝗯𝗼𝗿𝗮𝗴𝗲 𝗼𝗿 𝗰𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝘀 𝗰𝗼𝗻𝗱𝘂𝗰𝗶𝘃𝗲 𝘁𝗼 𝗽𝗲𝘀𝘁𝘀" (𝟮𝟰,𝟭𝟬𝟯) and "𝗲𝘃𝗶𝗱𝗲𝗻𝗰𝗲 𝗼𝗳 𝗺𝗶𝗰𝗲" (𝟭𝟯,𝟱𝟵𝟴). This indicates that 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗮𝗹 𝗽𝗿𝗲𝘃𝗲𝗻𝘁𝗶𝗼𝗻 𝗶𝘀 𝗮 𝗺𝗮𝗷𝗼𝗿 𝘄𝗲𝗮𝗸 𝗽𝗼𝗶𝗻𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗶𝘁𝘆'𝘀 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆.
 - 𝗧𝗲𝗺𝗽𝗲𝗿𝗮𝘁𝘂𝗿𝗲 & 𝗖𝗿𝗼𝘀𝘀-𝗖𝗼𝗻𝘁𝗮𝗺𝗶𝗻𝗮𝘁𝗶𝗼𝗻: Critical risks such as "𝗖𝗼𝗹𝗱 𝗧𝗖𝗦 𝗳𝗼𝗼𝗱 𝗵𝗲𝗹𝗱 𝗮𝗯𝗼𝘃𝗲 𝟰𝟭 °𝗙" (𝟭𝟲,𝟮𝟰𝟬) and "𝗶𝗺𝗽𝗿𝗼𝗽𝗲𝗿𝗹𝘆 𝘄𝗮𝘀𝗵𝗲𝗱 𝗳𝗼𝗼𝗱 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘀𝘂𝗿𝗳𝗮𝗰𝗲𝘀" (𝟭𝟴,𝟱𝟵𝟲) represent 𝗱𝗶𝗿𝗲𝗰𝘁 𝘁𝗵𝗿𝗲𝗮𝘁𝘀 𝘁𝗼 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝘁𝗵𝗮𝘁 𝗰𝗮𝗻 𝗹𝗲𝗮𝗱 𝘁𝗼 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗳𝗼𝗼𝗱𝗯𝗼𝗿𝗻𝗲 𝗶𝗹𝗹𝗻𝗲𝘀𝘀.
 
 <br>
+🟩 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗖𝗶𝘁𝘆 𝗼𝗳 𝗡𝗬𝗖
+- 𝗦𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗮𝗹 𝗗𝗲𝗰𝗮𝘆: The prevalence of infrastructure violations suggests that 𝗺𝗮𝗻𝘆 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴𝘀 𝗺𝗮𝘆 𝗯𝗲 𝗮𝗴𝗶𝗻𝗴 𝗼𝗿 𝗽𝗼𝗼𝗿𝗹𝘆 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗲𝗱, making them difficult to keep sanitary despite the owners' best efforts.
+- 𝗣𝘂𝗯𝗹𝗶𝗰 𝗛𝗲𝗮𝗹𝘁𝗵 𝗩𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝘆: The high number of temperature-related violations indicates 𝗮 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹 𝗴𝗮𝗽 𝗶𝗻 𝘁𝗵𝗲 𝗱𝗮𝗶𝗹𝘆 𝗺𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 𝗿𝗼𝘂𝘁𝗶𝗻𝗲𝘀 𝗼𝗳 𝗸𝗶𝘁𝗰𝗵𝗲𝗻 𝘀𝘁𝗮𝗳𝗳 𝗮𝗰𝗿𝗼𝘀𝘀 𝘁𝗵𝗲 𝗰𝗶𝘁𝘆.
 
-🟩
+🟩 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝗲𝗿 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵
+- 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗚𝗿𝗮𝗻𝘁 𝗼𝗿 𝗟𝗼𝗮𝗻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺: Launch a "Healthy Kitchens" initiative providing 𝗹𝗼𝘄-𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗹𝗼𝗮𝗻𝘀 𝗼𝗿 𝗴𝗿𝗮𝗻𝘁𝘀 𝗳𝗼𝗿 𝘀𝗺𝗮𝗹𝗹 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀𝗲𝘀 𝘁𝗼 𝘂𝗽𝗴𝗿𝗮𝗱𝗲 "𝗻𝗼𝗻-𝗳𝗼𝗼𝗱 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘀𝘂𝗿𝗳𝗮𝗰𝗲𝘀" (floors, walls, shelving) to meet modern sanitary standards. This addresses the number 1 violation at its root.
+- 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗲𝗱 𝗣𝗲𝘀𝘁 𝗣𝗿𝗲𝘃𝗲𝗻𝘁𝗶𝗼𝗻 𝗧𝗮𝘀𝗸 𝗙𝗼𝗿𝗰𝗲: Move from reactive ticketing to proactive prevention. 𝗖𝗿𝗲𝗮𝘁𝗲 𝗮 𝘁𝗮𝘀𝗸 𝗳𝗼𝗿𝗰𝗲 𝘁𝗼 𝘄𝗼𝗿𝗸 𝗰𝗹𝗼𝘀𝗲𝗹𝘆 𝘄𝗶𝘁𝗵 𝗹𝗮𝗻𝗱𝗹𝗼𝗿𝗱𝘀 𝗮𝗻𝗱 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗼𝘄𝗻𝗲𝗿𝘀, focusing on the structural conditions that lead to harborage before pests ever enter the kitchen.
 
 ---
 2️⃣ 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝘃𝘀. 𝗡𝗼𝗻-𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻
 
-🟩
+The comparison highlights a significant trend: 𝟳 𝗼𝘂𝘁 𝗼𝗳 𝘁𝗵𝗲 𝟭𝟬 𝗺𝗼𝘀𝘁 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝘁 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗿𝗲 𝗰𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗲𝗱 𝗮𝘀 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹. These violations 𝗽𝗼𝘀𝗲 𝗮 𝗱𝗶𝗿𝗲𝗰𝘁 𝘁𝗵𝗿𝗲𝗮𝘁 𝘁𝗼 𝗽𝘂𝗯𝗹𝗶𝗰 𝗵𝗲𝗮𝗹𝘁𝗵 𝗮𝘀 𝘁𝗵𝗲𝘆 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲 𝘁𝗼 𝗳𝗼𝗼𝗱𝗯𝗼𝗿𝗻𝗲 𝗶𝗹𝗹𝗻𝗲𝘀𝘀𝗲𝘀.
+- 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗩𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗗𝗼𝗺𝗶𝗻𝗮𝗻𝗰𝗲: While critical violations are more numerous in the top 10 list, the most frequent individual citation is actually Non-Critical: 𝗶𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗶𝘀𝘀𝘂𝗲𝘀 𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝘁𝗼 "𝗡𝗼𝗻-𝗳𝗼𝗼𝗱 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘀𝘂𝗿𝗳𝗮𝗰𝗲𝘀" (𝟯𝟱,𝟳𝟱𝟴 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀).
+- 𝗧𝗼𝘁𝗮𝗹 𝗖𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻:
+  - 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹: Total of 𝟴𝟵,𝟮𝟵𝟴 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝟳 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀.
+  - 𝗡𝗼𝘁 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹: Total of 𝟳𝟱,𝟵𝟬𝟲 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝟯 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀.
+- 𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗥𝗶𝘀𝗸𝘀: The most frequent critical issues involve 𝗶𝗺𝗽𝗿𝗼𝗽𝗲𝗿𝗹𝘆 𝘀𝗮𝗻𝗶𝘁𝗶𝘇𝗲𝗱 𝗳𝗼𝗼𝗱 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘀𝘂𝗿𝗳𝗮𝗰𝗲𝘀 (𝟭𝟴,𝟱𝟵𝟲 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀) and 𝗖𝗼𝗹𝗱 𝗳𝗼𝗼𝗱 𝘁𝗲𝗺𝗽𝗲𝗿𝗮𝘁𝘂𝗿𝗲 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 (𝟭𝟲,𝟮𝟰𝟬 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀).
+
+<br>
+
+🟩 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝗲𝗿 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵
+- 𝗣𝗿𝗶𝗼𝗿𝗶𝘁𝗶𝘇𝗲 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗜𝗻𝘁𝗲𝗿𝘃𝗲𝗻𝘁𝗶𝗼𝗻: Since critical violations represent the majority of high-frequency citations, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝘀𝗵𝗼𝘂𝗹𝗱 𝗳𝗼𝗰𝘂𝘀 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗼𝘂𝘁𝗿𝗲𝗮𝗰𝗵 𝗼𝗻 𝗧𝗲𝗺𝗽𝗲𝗿𝗮𝘁𝘂𝗿𝗲 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗮𝗻𝗱 𝗦𝗮𝗻𝗶𝘁𝗮𝘁𝗶𝗼𝗻 - the two critical categories with the highest counts.
+- 𝗧𝗮𝗿𝗴𝗲𝘁 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝘁 𝘁𝗵𝗲 𝗦𝗼𝘂𝗿𝗰𝗲: The number 1 violation (Non-food contact surfaces) is non-critical but 𝗰𝗼𝗻𝘀𝘂𝗺𝗲𝘀 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝗮𝗺𝗼𝘂𝗻𝘁 𝗼𝗳 𝗲𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁 𝘁𝗶𝗺𝗲. Providing tax incentives for restaurants to install 𝗵𝗶𝗴𝗵-𝗱𝘂𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗲𝗮𝘀𝘆-𝘁𝗼-𝗰𝗹𝗲𝗮𝗻 𝗺𝗮𝘁𝗲𝗿𝗶𝗮𝗹𝘀 𝘄𝗼𝘂𝗹𝗱 𝗿𝗲𝗱𝘂𝗰𝗲 𝘁𝗵𝗶𝘀 𝘃𝗼𝗹𝘂𝗺𝗲 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁𝗹𝘆.
+
+
 
 🟩
 
