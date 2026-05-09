@@ -223,30 +223,98 @@ Given these high scores, the recommendations to the NYC Department of Health �
 ---
 ---
 𝗚𝗘𝗢𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗔𝗡𝗗 𝗧𝗜𝗠𝗘 𝗧𝗥𝗘𝗡𝗗𝗦
+
+The analysis focuses on the 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗼𝗳 𝗰𝗼𝗺𝗺𝗼𝗻 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗰𝗵𝗮𝗶𝗻𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 𝗖𝗶𝘁𝘆'𝘀 𝗳𝗶𝘃𝗲 𝗯𝗼𝗿𝗼𝘂𝗴𝗵𝘀. The findings reveal a landscape of moderate compliance with localized pockets of higher risk.
+
 <br>
 
 1️⃣ 𝗥𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗚𝗿𝗮𝗱𝗲𝘀 𝗔𝗰𝗿𝗼𝘀𝘀 𝗕𝗼𝗿𝗼𝘂𝗴𝗵𝘀
 <br>
-<img width="998" height="563" alt="image" src="https://github.com/user-attachments/assets/d4584c4e-1e74-47db-b9bd-1518932f017e" />
+
+<img width="988" height="552" alt="image" src="https://github.com/user-attachments/assets/1c33c7c2-8010-40c0-b993-0e39ce6d5c4d" />
+
+
 <br>
 
-🟩
 
-🟩
+🟩 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗼𝗳 𝗥𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗚𝗿𝗮𝗱𝗲𝘀
 
+The results can be summarized as follows:
+
+𝗕𝗼𝗿𝗼𝘂𝗴𝗵 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗧𝗶𝗲𝗿𝘀:
+- 𝗠𝗮𝗻𝗵𝗮𝘁𝘁𝗮𝗻 & 𝗦𝘁𝗮𝘁𝗲𝗻 𝗜𝘀𝗹𝗮𝗻𝗱: Show the highest stability, with all listed restaurants maintaining 𝗮 '𝗕' 𝗴𝗿𝗮𝗱𝗲 and 𝘇𝗲𝗿𝗼 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲𝘀 𝗼𝗳 '𝗖' 𝗴𝗿𝗮𝗱𝗲𝘀. 
+- 𝗕𝗿𝗼𝗻𝘅, 𝗕𝗿𝗼𝗼𝗸𝗹𝘆𝗻, & 𝗤𝘂𝗲𝗲𝗻𝘀: Each borough contains 𝗼𝗻𝗲 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝗼𝗳 𝗮 '𝗖' 𝗴𝗿𝗮𝗱𝗲, indicating 𝗵𝗶𝗴𝗵𝗲𝗿 𝗹𝗼𝗰𝗮𝗹𝗶𝘇𝗲𝗱 𝘀𝗮𝗻𝗶𝘁𝗮𝗿𝘆 𝗿𝗶𝘀𝗸𝘀. 
+
+<br>
+
+𝗖𝗵𝗮𝗶𝗻 𝗖𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝗰𝘆:
+- 𝗖𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗹𝘆 '𝗕': Chains like 𝗗𝗨𝗡𝗞𝗜𝗡, 𝗦𝗨𝗕𝗪𝗔𝗬, and 𝗕𝗨𝗥𝗚𝗘𝗥 𝗞𝗜𝗡𝗚 maintain 𝗮 '𝗕' 𝗴𝗿𝗮𝗱𝗲 𝗮𝗰𝗿𝗼𝘀𝘀 𝗮𝗹𝗺𝗼𝘀𝘁 𝗮𝗹𝗹 𝗯𝗼𝗿𝗼𝘂𝗴𝗵𝘀 where they are listed, showing 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝗶𝘇𝗲𝗱 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀. 
+- 𝗛𝗶𝗴𝗵-𝗥𝗶𝘀𝗸 𝗢𝘂𝘁𝗹𝗶𝗲𝗿𝘀: Certain chains 𝘀𝗵𝗼𝘄 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁 𝗴𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗰 𝗶𝗻𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝗰𝘆. For example, 𝗪𝗜𝗡𝗚𝗦𝗧𝗢𝗣 holds 𝗮 '𝗕' 𝗶𝗻 𝘁𝗵𝗿𝗲𝗲 𝗯𝗼𝗿𝗼𝘂𝗴𝗵𝘀 but drops to 𝗮 '𝗖' 𝗶𝗻 𝗤𝘂𝗲𝗲𝗻𝘀. Similarly, 𝗖𝗥𝗢𝗪𝗡 𝗙𝗥𝗜𝗘𝗗 𝗖𝗛𝗜𝗖𝗞𝗘𝗡 (𝗕𝗿𝗼𝗻𝘅) and 𝗞𝗘𝗡𝗡𝗘𝗗𝗬 𝗙𝗥𝗜𝗘𝗗 𝗖𝗛𝗜𝗖𝗞𝗘𝗡 (𝗕𝗿𝗼𝗼𝗸𝗹𝘆𝗻) recorded '𝗖' 𝗴𝗿𝗮𝗱𝗲𝘀 𝘄𝗵𝗶𝗹𝗲 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗶𝗻𝗴 '𝗕' 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲. 
+
+<br>
+
+🟩 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+- 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗜𝗻𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝗰𝘆: The drop from a '𝗕' to a '𝗖' for the same brand in different boroughs suggests that 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗶𝘀 𝗯𝗲𝗶𝗻𝗴 𝗺𝗮𝗻𝗮𝗴𝗲𝗱 𝗮𝘁 𝘁𝗵𝗲 𝗹𝗼𝗰𝗮𝗹 𝘀𝘁𝗼𝗿𝗲 𝗹𝗲𝘃𝗲𝗹 𝗿𝗮𝘁𝗵𝗲𝗿 𝘁𝗵𝗮𝗻 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝘀𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗲𝗻𝗳𝗼𝗿𝗰𝗲𝗱 𝗰𝗼𝗿𝗽𝗼𝗿𝗮𝘁𝗲-𝘄𝗶𝗱𝗲 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝘀.
+- 𝗕𝗿𝗮𝗻𝗱 𝗥𝗲𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻 𝗥𝗶𝘀𝗸: For national chains, a '𝗖' 𝗴𝗿𝗮𝗱𝗲 𝗶𝗻 𝗮 𝗵𝗶𝗴𝗵-𝘁𝗿𝗮𝗳𝗳𝗶𝗰 𝗯𝗼𝗿𝗼𝘂𝗴𝗵 like 𝗤𝘂𝗲𝗲𝗻𝘀 or 𝗕𝗿𝗼𝗼𝗸𝗹𝘆𝗻 can have a 𝗱𝗶𝘀𝗽𝗿𝗼𝗽𝗼𝗿𝘁𝗶𝗼𝗻𝗮𝘁𝗲 𝗻𝗲𝗴𝗮𝘁𝗶𝘃𝗲 𝗶𝗺𝗽𝗮𝗰𝘁 𝗼𝗻 𝗽𝘂𝗯𝗹𝗶𝗰 𝗽𝗲𝗿𝗰𝗲𝗽𝘁𝗶𝗼𝗻 of the entire brand.
+
+<br>
+
+🟩 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗗𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵
+- 𝗖𝗵𝗮𝗶𝗻-𝗪𝗶𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗥𝗲𝘃𝗶𝗲𝘄𝘀: For chains that 𝗱𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲 𝗶𝗻𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁 𝗴𝗿𝗮𝗱𝗶𝗻𝗴 (e.g., Wingstop or Crown Fried Chicken), the DOH should 𝗺𝗮𝗻𝗱𝗮𝘁𝗲 𝗮 𝗺𝗲𝗲𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗰𝗼𝗿𝗽𝗼𝗿𝗮𝘁𝗲 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗺𝗮𝗻𝗮𝗴𝗲𝗿𝘀 to discuss why specific locations are failing to meet the brand's baseline 'B' performance.
+- 𝗦𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗜𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗲𝘀: Offer a "𝗣𝘂𝗯𝗹𝗶𝗰 𝗦𝗮𝗳𝗲𝘁𝘆 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲" 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗲 to chains 𝘁𝗵𝗮𝘁 𝗺𝗮𝗻𝗮𝗴𝗲 𝘁𝗼 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻 𝗮 𝗚𝗿𝗮𝗱𝗲 𝗔 𝗮𝗰𝗿𝗼𝘀𝘀 𝗮𝗹𝗹 𝗳𝗶𝘃𝗲 𝗯𝗼𝗿𝗼𝘂𝗴𝗵𝘀 𝗳𝗼𝗿 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝘁𝘄𝗼 𝗰𝗼𝗻𝘀𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗰𝘆𝗰𝗹𝗲𝘀, encouraging brands to prioritize city-wide consistency.
 
 
 ---
 
 2️⃣ 𝗛𝗮𝘃𝗲 𝗦𝗰𝗼𝗿𝗲𝘀 𝗜𝗺𝗽𝗿𝗼𝘃𝗲𝗱 𝗼𝗿 𝗪𝗼𝗿𝘀𝗲𝗻𝗲𝗱 𝗢𝘃𝗲𝗿 𝗧𝗶𝗺𝗲?
 
-🟩
+Based on the analysis, health 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝘀𝗰𝗼𝗿𝗲𝘀 𝗵𝗮𝘃𝗲 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝘀𝗲𝗻𝗲𝗱 𝗼𝘃𝗲𝗿 𝘁𝗵𝗲 𝗹𝗮𝘀𝘁 𝘀𝗲𝘃𝗲𝗿𝗮𝗹 𝘆𝗲𝗮𝗿𝘀. The trend shows a steady climb from highly compliant averages (below 13) in 2016-2017 to averages consistently exceeding 25 points by late 2024 and 2025.
 
-🟩
+<img width="985" height="548" alt="image" src="https://github.com/user-attachments/assets/858ae478-40e4-4f98-b2a5-67d9bee42b4b" />
+
+<br>
+
+🟩 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗧𝗿𝗲𝗻𝗱
+- 𝗜𝗻𝗶𝘁𝗶𝗮𝗹 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲 (𝟮𝟬𝟭𝟲–𝟮𝟬𝟭𝟴): During this period, the average score 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝘁𝗹𝘆 𝗱𝗶𝗽𝗽𝗲𝗱 𝗶𝗻𝘁𝗼 𝘁𝗵𝗲 "𝗚𝗿𝗮𝗱𝗲 𝗔" 𝗿𝗮𝗻𝗴𝗲 (𝟬–𝟭𝟯 𝗽𝗼𝗶𝗻𝘁𝘀), with some months recording historical 𝗹𝗼𝘄𝘀 𝗻𝗲𝗮𝗿 𝟯.𝟱.
+- 𝗧𝗵𝗲 𝗨𝗽𝘄𝗮𝗿𝗱 𝗦𝗵𝗶𝗳𝘁 (𝟮𝟬𝟭𝟵–𝟮𝟬𝟮𝟮): Scores began to stabilize at a higher baseline, rarely falling back into the 𝗚𝗿𝗮𝗱𝗲 𝗔 𝘁𝗲𝗿𝗿𝗶𝘁𝗼𝗿𝘆 and instead 𝗵𝗼𝘃𝗲𝗿𝗶𝗻𝗴 𝗯𝗲𝘁𝘄𝗲𝗲𝗻 𝟭𝟱 𝗮𝗻𝗱 𝟮𝟱 𝗽𝗼𝗶𝗻𝘁𝘀.
+- 𝗥𝗲𝗰𝗲𝗻𝘁 𝗗𝗲𝗰𝗹𝗶𝗻𝗲 (𝟮𝟬𝟮𝟯–𝟮𝟬𝟮𝟱): The most recent data shows 𝗮 𝘀𝘂𝘀𝘁𝗮𝗶𝗻𝗲𝗱 𝗽𝗲𝗿𝗶𝗼𝗱 𝗼𝗳 𝗽𝗼𝗼𝗿 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲, with monthly averages 𝗽𝗲𝗮𝗸𝗶𝗻𝗴 𝗻𝗲𝗮𝗿 𝟮𝟵.𝟰𝟯. This indicates that the average establishment is 𝗻𝗼𝘄 𝗰𝗶𝘁𝗲𝗱 𝗳𝗼𝗿 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁𝗹𝘆 𝗺𝗼𝗿𝗲 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝗻 𝗶𝗻 𝗽𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝘆𝗲𝗮𝗿𝘀.
+
+<br>
+
+🟩 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+- 𝗦𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗙𝗮𝗶𝗹𝘂𝗿𝗲: The consistent rise above the 13-point threshold suggests that "𝗚𝗿𝗮𝗱𝗲 𝗔" 𝘀𝘁𝗮𝘁𝘂𝘀 𝗶𝘀 𝗯𝗲𝗰𝗼𝗺𝗶𝗻𝗴 𝘁𝗵𝗲 𝗲𝘅𝗰𝗲𝗽𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗵𝗲𝗿 𝘁𝗵𝗮𝗻 𝘁𝗵𝗲 𝗻𝗼𝗿𝗺.
+- 𝗜𝗻𝗰𝗿𝗲𝗮𝘀𝗲𝗱 𝗣𝘂𝗯𝗹𝗶𝗰 𝗛𝗲𝗮𝗹𝘁𝗵 𝗥𝗶𝘀𝗸: Higher average scores 𝗰𝗼𝗿𝗿𝗲𝗹𝗮𝘁𝗲 𝗱𝗶𝗿𝗲𝗰𝘁𝗹𝘆 𝘄𝗶𝘁𝗵 𝗮𝗻 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗶𝗻 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗻𝗼𝗻-𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀, potentially leading to 𝗮 𝗵𝗶𝗴𝗵𝗲𝗿 𝗶𝗻𝗰𝗶𝗱𝗲𝗻𝗰𝗲 𝗼𝗳 𝗳𝗼𝗼𝗱𝗯𝗼𝗿𝗻𝗲 𝗶𝗹𝗹𝗻𝗲𝘀𝘀 city-wide.
+
+<br>
+
+🟩 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗗𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵
+- 𝗥𝗼𝗼𝘁 𝗖𝗮𝘂𝘀𝗲 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻: Conduct 𝗮 𝗳𝗼𝗰𝘂𝘀𝗲𝗱 𝗮𝘂𝗱𝗶𝘁 to determine if the score increase is 𝗱𝘂𝗲 𝘁𝗼 𝘀𝘁𝗿𝗶𝗰𝘁𝗲𝗿 𝗲𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁, 𝗰𝗵𝗮𝗻𝗴𝗲𝘀 𝗶𝗻 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝗼𝗻𝘀, or 𝗮 𝗴𝗲𝗻𝘂𝗶𝗻𝗲 𝗱𝗲𝗰𝗹𝗶𝗻𝗲 𝗶𝗻 𝗸𝗶𝘁𝗰𝗵𝗲𝗻 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝘀 𝗽𝗼𝘀𝘁-𝟮𝟬𝟮𝟬.
+- 𝗣𝘂𝗯𝗹𝗶𝗰 𝗔𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀 𝗖𝗮𝗺𝗽𝗮𝗶𝗴𝗻: Update the public-facing grading system to more clearly 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀 𝘁𝗵𝗮𝘁 𝗵𝗮𝘃𝗲 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗲𝗱 𝗮 𝘀𝘁𝗮𝗯𝗹𝗲 𝗹𝗼𝘄 𝘀𝗰𝗼𝗿𝗲 𝗼𝘃𝗲𝗿 𝘁𝗶𝗺𝗲,  rather than just their most recent snapshot.
 
 ---
 3️⃣ 𝗛𝗮𝘃𝗲 𝗩𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗜𝗺𝗽𝗿𝗼𝘃𝗲𝗱 𝗼𝗿 𝗪𝗼𝗿𝘀𝗲𝗻𝗲𝗱 𝗢𝘃𝗲𝗿 𝗧𝗶𝗺𝗲?
 
-🟩
+Based on the data, 𝗵𝗲𝗮𝗹𝘁𝗵 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗶𝗻 𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 𝗖𝗶𝘁𝘆 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝘀𝗲𝗻𝗲𝗱 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿 𝘁𝗵𝗲 𝗹𝗮𝘀𝘁 𝗱𝗲𝗰𝗮𝗱𝗲.
 
-🟩
+<br>
+
+🟩 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗧𝗿𝗲𝗻𝗱
+- 𝗧𝗵𝗲 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗘𝗿𝗮 (𝟮𝟬𝟭𝟱–𝟮𝟬𝟮𝟬): During this period, 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗻𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝗿𝗲𝗰𝗼𝗿𝗱𝗲𝗱 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗿𝗲𝗺𝗮𝗶𝗻𝗲𝗱 𝗲𝘅𝗰𝗲𝗽𝘁𝗶𝗼𝗻𝗮𝗹𝗹𝘆 𝗹𝗼𝘄, never exceeding 𝟭,𝟬𝟬𝟬 𝗮𝗻𝗻𝘂𝗮𝗹𝗹𝘆. The absolute low occurred in 2015 with only 𝟭𝟳 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗿𝗲𝗰𝗼𝗿𝗱𝗲𝗱.
+- 𝗧𝗵𝗲 𝗣𝗼𝘀𝘁-𝗣𝗮𝗻𝗱𝗲𝗺𝗶𝗰 𝗦𝗽𝗶𝗸𝗲 (𝟮𝟬𝟮𝟭–𝟮𝟬𝟮𝟰): Starting in 2021, 𝘁𝗵𝗲𝗿𝗲 𝘄𝗮𝘀 𝗮 𝗱𝗿𝗮𝗺𝗮𝘁𝗶𝗰 𝗮𝗻𝗱 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁 𝘀𝘂𝗿𝗴𝗲 𝗶𝗻 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀.
+  o	𝟮𝟬𝟮𝟭: Violations jumped to 𝟰,𝟱𝟯𝟮.
+  o	𝟮𝟬𝟮𝟮: A massive spike to 𝟱𝟯,𝟱𝟴𝟴 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀.
+  o	𝟮𝟬𝟮𝟰: Recorded the historical peak with 𝟴𝟲,𝟴𝟬𝟳 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀.
+- 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗦𝘁𝗮𝘁𝘂𝘀 (𝟮𝟬𝟮𝟱): While the 𝟮𝟬𝟮𝟱 𝗳𝗶𝗴𝘂𝗿𝗲 𝗼𝗳 𝟲𝟲,𝟭𝟳𝟬 𝗶𝘀 𝗹𝗼𝘄𝗲𝗿 than the previous year, it still represents 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝘃𝗼𝗹𝘂𝗺𝗲 𝗼𝗳 𝗻𝗼𝗻-𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗰𝗼𝗺𝗽𝗮𝗿𝗲𝗱 𝘁𝗼 𝗽𝗿𝗲-𝟮𝟬𝟮𝟭 𝗹𝗲𝘃𝗲𝗹𝘀.
+
+<br>
+
+🟩 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+- 𝗦𝗲𝘃𝗲𝗿𝗲 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗲𝗰𝗹𝗶𝗻𝗲: The scale of the increase (from hundreds to tens of thousands) suggests 𝗮 𝘀𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗯𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻 𝗶𝗻 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 or 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗶𝗻 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝘆 𝗮𝗻𝗱 𝘀𝘁𝗿𝗶𝗰𝘁𝗻𝗲𝘀𝘀.
+- 𝗛𝗶𝗴𝗵 𝗥𝗶𝘀𝗸 𝘁𝗼 𝗣𝘂𝗯𝗹𝗶𝗰 𝗛𝗲𝗮𝗹𝘁𝗵: With nearly 𝟴𝟳,𝟬𝟬𝟬 𝘃𝗶𝗼𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝘂𝗻𝗱 𝗶𝗻 𝗮 𝘀𝗶𝗻𝗴𝗹𝗲 𝘆𝗲𝗮𝗿 (𝟮𝟬𝟮𝟰), the dining public is 𝗲𝘅𝗽𝗼𝘀𝗲𝗱 𝘁𝗼 𝗮 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁𝗹𝘆 𝗵𝗶𝗴𝗵𝗲𝗿 𝘃𝗼𝗹𝘂𝗺𝗲 𝗼𝗳 𝗵𝗲𝗮𝗹𝘁𝗵 𝗿𝗶𝘀𝗸𝘀 than in previous years.
+
+<br>
+
+🟩 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
+- 𝗠𝗮𝗻𝗱𝗮𝘁𝗼𝗿𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝗶𝗮𝗹 𝗥𝗲𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴: Establishments in high-violation sectors should be 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗱 𝘁𝗼 𝗵𝗮𝘃𝗲 𝗺𝗮𝗻𝗮𝗴𝗲𝗿𝘀 𝘂𝗻𝗱𝗲𝗿𝗴𝗼 𝗻𝗲𝘄, 𝗺𝗼𝗱𝗲𝗿𝗻𝗶𝘇𝗲𝗱 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 that addresses post-pandemic operational challenges.
+- 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗔𝗹𝗹𝗼𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝟮𝟬𝟮𝟰 𝗣𝗲𝗮𝗸𝘀: Analyze 𝘄𝗵𝘆 𝟮𝟬𝟮𝟰 𝘀𝗮𝘄 𝘀𝘂𝗰𝗵 𝗮𝗻 𝗲𝘅𝘁𝗿𝗲𝗺𝗲 𝘀𝘂𝗿𝗴𝗲 and 𝗱𝗲𝘁𝗲𝗿𝗺𝗶𝗻𝗲 𝗶𝗳 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗯𝗼𝗿𝗼𝘂𝗴𝗵𝘀 𝗼𝗿 𝗰𝘂𝗶𝘀𝗶𝗻𝗲𝘀 𝘄𝗲𝗿𝗲 𝘁𝗵𝗲 𝗽𝗿𝗶𝗺𝗮𝗿𝘆 𝗱𝗿𝗶𝘃𝗲𝗿𝘀.
+
