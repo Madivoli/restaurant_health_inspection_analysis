@@ -231,7 +231,7 @@ The analysis focuses on the 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗼�
 1️⃣ 𝗥𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗚𝗿𝗮𝗱𝗲𝘀 𝗔𝗰𝗿𝗼𝘀𝘀 𝗕𝗼𝗿𝗼𝘂𝗴𝗵𝘀
 <br>
 
-<img width="988" height="552" alt="image" src="https://github.com/user-attachments/assets/1c33c7c2-8010-40c0-b993-0e39ce6d5c4d" />
+<img width="990" height="551" alt="image" src="https://github.com/user-attachments/assets/0f8d2e19-b30a-4b3e-91fd-c19d33e179f8" />
 
 
 <br>
