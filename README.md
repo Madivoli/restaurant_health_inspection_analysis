@@ -10,6 +10,7 @@ This project provides 𝗮 𝗰𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝘃𝗲 
 <br>
 
 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆
+- Hospitality
 - Public Health and Safety
 
 <br>
