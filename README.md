@@ -5,7 +5,19 @@
 
 <br>
 
-This analysis provides 𝗮 𝗰𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝘃𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗼𝗳 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗵𝗲𝗮𝗹𝘁𝗵 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 across New York City to 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗶𝗻 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲. By evaluating the relationships between violation types, restaurant grades, and cuisine categories across the five boroughs, 𝘁𝗵𝗲 𝗡𝗬𝗖 𝗗𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵 𝗰𝗮𝗻 𝗯𝗲𝘁𝘁𝗲𝗿 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝗶𝘇𝗲 𝗶𝘁𝘀 𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗼𝗿𝘆 𝗲𝗳𝗳𝗼𝗿𝘁𝘀. The primary objective is to use these data-driven insights 𝘁𝗼 𝗿𝗲𝗳𝗶𝗻𝗲 𝗽𝘂𝗯𝗹𝗶𝗰 𝗵𝗲𝗮𝗹𝘁𝗵 𝗽𝗼𝗹𝗶𝗰𝗶𝗲𝘀, 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗲 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝘀𝗰𝗵𝗲𝗱𝘂𝗹𝗶𝗻𝗴, and 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝘁𝗮𝗿𝗴𝗲𝘁𝗲𝗱 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 where it is most needed to protect the dining public.
+This project provides 𝗮 𝗰𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝘃𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗼𝗳 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗵𝗲𝗮𝗹𝘁𝗵 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 across New York City to 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗶𝗻 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲. By evaluating the relationships between violation types, restaurant grades, and cuisine categories across the five boroughs, 𝘁𝗵𝗲 𝗡𝗬𝗖 𝗗𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 𝗼𝗳 𝗛𝗲𝗮𝗹𝘁𝗵 𝗰𝗮𝗻 𝗯𝗲𝘁𝘁𝗲𝗿 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝗶𝘇𝗲 𝗶𝘁𝘀 𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗼𝗿𝘆 𝗲𝗳𝗳𝗼𝗿𝘁𝘀. The primary objective is to use these data-driven insights 𝘁𝗼 𝗿𝗲𝗳𝗶𝗻𝗲 𝗽𝘂𝗯𝗹𝗶𝗰 𝗵𝗲𝗮𝗹𝘁𝗵 𝗽𝗼𝗹𝗶𝗰𝗶𝗲𝘀, 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗲 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝘀𝗰𝗵𝗲𝗱𝘂𝗹𝗶𝗻𝗴, and 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝘁𝗮𝗿𝗴𝗲𝘁𝗲𝗱 𝗳𝗼𝗼𝗱 𝘀𝗮𝗳𝗲𝘁𝘆 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 where it is most needed to protect the dining public.
+
+<br>
+
+𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆
+- Public Health and Safety
+
+<br>
+
+𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
+- Data Storage and Management: SQL (MySQL & DBeaver)
+- Data Processing and Cleaning: Python (Anaconda/Jupyter, Pandas)
+- Business Intelligence (BI): Power BI Desktop (DAX, Data Visualisation)
 
 <br>
 
